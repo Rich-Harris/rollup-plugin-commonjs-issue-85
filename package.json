@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^0.35.11",
+    "rollup-plugin-commonjs": "^5.0.0",
+    "rollup-plugin-node-resolve": "^2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "jquery.easing": "^1.4.1"
+  }
+}
